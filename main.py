@@ -275,10 +275,6 @@ async def kanavat(interaction: discord.Interaction):
     await interaction.response.send_message(embed=embed ) 
       
 
-#https://stream.radioplay.fi/premium/suomirap.aac?direct=true&aw_0_1st.skey=1720023429
-#https://stream.radioplay.fi/auranaallot/auranaallot_64.aac?direct=true&aw_0_1st.skey=1720023429
-#https://stream.radioplay.fi/premium/basso.aac?downloadSessionID=0&direct=true&listenerid=30fd42ff154085c3baeb61bc82e1e471&aw_0_1st.bauer_listenerid=30fd42ff154085c3baeb61bc82e1e471&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1720052549&aw_0_1st.bauer_loggedin=true&aw_0_1st.bauer_agegroup=18-24&firstname=pena&aw_0_1st.bauer_firstname=pena&user_id=1434194355&aw_0_req.userConsentV2=CQBLc0AQBLc0AAGABCFIA6EgAAAAAAAAAApAAAAAAAAA.YAAAAAAAAAAA&aw_0_1st.octave_covatic=9999undefined
-                                       #?direct=true&listenerid=963f58278d15fda5fefcc0295af505b1&aw_0_1st.bauer_listenerid=963f58278d15fda5fefcc0295af505b1&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1720094462&aw_0_1st.bauer_loggedin=true&aw_0_1st.bauer_gender=male&aw_0_1st.bauer_agegroup=18-24&firstname=atte&aw_0_1st.bauer_firstname=atte&user_id=1434194355&region=FI&aw_0_req.userConsentV2=CQBLc0AQBLc0AAGABCFIA6EgAAAAAAAAAApAAAAAAAAA.YAAAAAAAAAAA&aw_0_1st.octave_covatic=9999undefined
 
 
 class MyView(discord.ui.View):
