@@ -1,3 +1,4 @@
-aiohttp==3.8.1
-yarl==1.4.2
-frozenlist==1.4.0
+beautifulsoup4==4.12.3
+discord.py==2.3.2
+ffmpeg-python==0.2.0
+urllib3==2.2.1
